@@ -14,8 +14,6 @@ Challenge 15
     - [Libraries](https://github.com/ShengGaoSG/Robo_Advisor#libraries)
     - [Work with GitHub](https://github.com/ShengGaoSG/Robo_Advisor#work-with-github)
     - [How to install](https://github.com/ShengGaoSG/Robo_Advisor#how-to-install)
-- [Working Bot Demonstration](https://github.com/ShengGaoSG/Robo_Advisor#working-bot-demonstration)
-- [Helps recruiters](https://github.com/ShengGaoSG/Robo_Advisor#helps-recruiters)
 - [License](https://github.com/ShengGaoSG/Robo_Advisor#license)
 
 
@@ -64,12 +62,8 @@ You can find Test Files in the repo in separate folder. On the following picture
 <img width="809" alt="Screen Shot 2021-07-06 at 9 02 56 PM" src="https://user-images.githubusercontent.com/80833988/124698345-8ce54700-de9d-11eb-8c0c-5ddfef0f60de.png">
 ](url)
 
-On the following video you can see this code deployed with the bot:
 
-https://user-images.githubusercontent.com/80833988/124698952-beaadd80-de9e-11eb-96a0-6cefdd348d8b.mov
-
-
-### Step 4: Deploy Lambda
+### Step 5: Deploy Lambda
 
 <img width="691" alt="Screen Shot 2021-07-06 at 6 31 25 PM" src="https://user-images.githubusercontent.com/80833988/124686672-623cc380-de88-11eb-905f-3616e0e6a1fc.png">
 
@@ -108,35 +102,8 @@ now you can find repo on your desktop
 * Choose [ lambda_function.py ] file to see the code for Enhanced Robo Advisor.
 
 
-## Working Bot Demonstration
-
-### Initial robo advisor
-
->" Define an Amazon Lex bot with a single intent that establishes a conversation about requirements to suggest an investment portfolio for retirement.
-"
 
 
-
-https://user-images.githubusercontent.com/80833988/124681906-6bc12e00-de7e-11eb-98b9-d48959155925.mov
-
-
-
-### Enhanced Robo Advisor 
-
->"  Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This includes testing the Amazon Lambda function and integrating it with the bot.
-"
-
-
-https://user-images.githubusercontent.com/80833988/124681923-77acf000-de7e-11eb-8e8a-9eaf4253ffd6.mov
-
-
-
-
-
-
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team
 
 
 ## License
