@@ -1,9 +1,6 @@
 # Robo Advisor
 
-📌 Challenge 15
-
-<img width="723" alt="Screen Shot 2021-07-06 at 5 25 47 PM" src="https://user-images.githubusercontent.com/80833988/124682261-36691000-de7f-11eb-8055-1892958230e6.png">
-
+Challenge 15
 
 
 > "In this Challenge, I combine my new AWS (Amazon Web Services) skills with existing Python superpowers to create a bot that will recommend an investment portfolio for a retirement plan
@@ -11,20 +8,15 @@
 
 
 
-
-
-
-
-
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/Robo_Advisor#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Robo_Advisor#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Robo_Advisor#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Robo_Advisor#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Robo_Advisor#how-to-install)
-- [Working Bot Demonstration](https://github.com/nataliaburrey/Robo_Advisor#working-bot-demonstration)
-- [Helps recruiters](https://github.com/nataliaburrey/Robo_Advisor#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Robo_Advisor#license)
+- [Overview of the project and project goals](https://github.com/ShengGaoSG/Robo_Advisor#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/ShengGaoSG/Robo_Advisor#software-version-control)
+    - [Libraries](https://github.com/ShengGaoSG/Robo_Advisor#libraries)
+    - [Work with GitHub](https://github.com/ShengGaoSG/Robo_Advisor#work-with-github)
+    - [How to install](https://github.com/ShengGaoSG/Robo_Advisor#how-to-install)
+- [Working Bot Demonstration](https://github.com/ShengGaoSG/Robo_Advisor#working-bot-demonstration)
+- [Helps recruiters](https://github.com/ShengGaoSG/Robo_Advisor#helps-recruiters)
+- [License](https://github.com/ShengGaoSG/Robo_Advisor#license)
 
 
 
@@ -107,7 +99,7 @@ from dateutil.relativedelta import relativedelta
 ```
 cd desktop
 
-git clone https://github.com/nataliaburrey/Robo_Advisor.git
+git clone https://github.com/ShengGaoSG/Robo_Advisor.git
 ```
 
 now you can find repo on your desktop
@@ -152,5 +144,5 @@ The project was created in collaboration with Berkeley Fintech Bootcamp team
 MIT
 
 
-📔 Contact me: 
-📩 nataliaburrey@gmail.com
+Contact me: 
+sheng_gao@outlook.com
